@@ -1,0 +1,16 @@
+C:\Users\HackerU\source\repos\sqlite2403\sqlite2403\bin\Debug\sqlite2403.exe.config
+C:\Users\HackerU\source\repos\sqlite2403\sqlite2403\bin\Debug\sqlite2403.exe
+C:\Users\HackerU\source\repos\sqlite2403\sqlite2403\bin\Debug\sqlite2403.pdb
+C:\Users\HackerU\source\repos\sqlite2403\sqlite2403\bin\Debug\EntityFramework.dll
+C:\Users\HackerU\source\repos\sqlite2403\sqlite2403\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HackerU\source\repos\sqlite2403\sqlite2403\bin\Debug\System.Data.SQLite.dll
+C:\Users\HackerU\source\repos\sqlite2403\sqlite2403\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\HackerU\source\repos\sqlite2403\sqlite2403\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\HackerU\source\repos\sqlite2403\sqlite2403\bin\Debug\EntityFramework.xml
+C:\Users\HackerU\source\repos\sqlite2403\sqlite2403\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HackerU\source\repos\sqlite2403\sqlite2403\bin\Debug\System.Data.SQLite.xml
+C:\Users\HackerU\source\repos\sqlite2403\sqlite2403\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\HackerU\source\repos\sqlite2403\sqlite2403\obj\Debug\sqlite2403.csprojResolveAssemblyReference.cache
+C:\Users\HackerU\source\repos\sqlite2403\sqlite2403\obj\Debug\sqlite2403.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\repos\sqlite2403\sqlite2403\obj\Debug\sqlite2403.exe
+C:\Users\HackerU\source\repos\sqlite2403\sqlite2403\obj\Debug\sqlite2403.pdb
